@@ -23,8 +23,8 @@
 
 Sự cấp thiết về một công nghệ mạng mới  nâng cao tốc độ truyền tải mạng và dễ quản lí cấu hình, vì vậy SDN ra đời là cần thiết.
 
-  Theo *Open Networking Foundation (ONF)* định nghĩa: `SDN` là kiến trúc mạng linh động, dễ dàng quản lý, hiệu quả về chi phí, có khả năng đáp ứng cao, lý tưởng cho các ứng dụng đòi hỏi băng thông lớn và có tính năng động cao.
+  Theo *Open Networking Foundation (ONF)* định nghĩa: SDN là kiến trúc mạng linh động, dễ dàng quản lý, hiệu quả về chi phí, có khả năng đáp ứng cao, lý tưởng cho các ứng dụng đòi hỏi băng thông lớn và có tính năng động cao.
 
 Kiến trúc này tách biệt hai cơ chế đang tồn tại trong kiến trúc mạng hiện tại là cơ chế điều khiển (control plane) và cơ chế chuyển tiếp (data plane), cho phép phần điều khiển có khả năng lập trình được và hạ tầng bên dưới trở nên trừu tượng với các ứng dụng và các dịch vụ mạng. 
 
-<img src="https://imgur.com/a/TtTNs">
+<img src=https://imgur.com/a/TtTNs>
