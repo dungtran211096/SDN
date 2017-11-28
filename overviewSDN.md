@@ -27,4 +27,4 @@ Sự cấp thiết về một công nghệ mạng mới  nâng cao tốc độ t
 
 Kiến trúc này tách biệt hai cơ chế đang tồn tại trong kiến trúc mạng hiện tại là cơ chế điều khiển (control plane) và cơ chế chuyển tiếp (data plane), cho phép phần điều khiển có khả năng lập trình được và hạ tầng bên dưới trở nên trừu tượng với các ứng dụng và các dịch vụ mạng. 
 
-<img src=https://imgur.com/a/TtTNs>
+<img src="https://imgur.com/a/TtTNs">
